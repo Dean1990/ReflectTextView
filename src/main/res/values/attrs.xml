@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="reflectAlpha" format="integer"/>
+    <attr name="reflectHeightMultiple" format="float"/>
+    <attr name="spacingValue" format="dimension"/>
+    <declare-styleable name="reflect">
+        <attr name="reflectAlpha"/>
+        <attr name="reflectHeightMultiple"/>
+        <attr name="spacingValue"/>
+    </declare-styleable>
+</resources>
