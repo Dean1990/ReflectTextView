@@ -8,6 +8,10 @@
 
 #### 使用：
 
+##### 前提条件
+
+项目中需要引用 com.android.support:appcompat-v7 包才能使用本控件。
+
 ##### Project build.gradle配置
 
 ```groovy
