@@ -27,7 +27,7 @@ allprojects {
 
 ```groovy
 dependencies {
-        compile 'com.github.Dean1990:ReflectTextView:-SNAPSHOT'
+        implementation 'com.github.Dean1990:ReflectTextView:-SNAPSHOT'
 }
 ```
 
